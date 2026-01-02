@@ -3,7 +3,7 @@ import sys
 
 def main():
     # TODO: Uncomment the code below to pass the first stage
-    vsys.stdout.write("$ ")
+    sys.stdout.write("$ ")
     
 # Wait for user input
     command = input()
